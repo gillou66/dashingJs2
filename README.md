@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa31358c566b45fbbb1e9c4a9a579faf)](https://www.codacy.com/app/gillou66/dashingJs2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gillou66/dashingJs2&amp;utm_campaign=Badge_Grade)
+
 # DashingJs2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
