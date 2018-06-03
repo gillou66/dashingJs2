@@ -1,5 +1,6 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa31358c566b45fbbb1e9c4a9a579faf)](https://www.codacy.com/app/gillou66/dashingJs2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gillou66/dashingJs2&amp;utm_campaign=Badge_Grade)
+[![Known Vulnerabilities](https://snyk.io/test/github/gillou66/dashingJs2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/gillou66/dashingJs2?targetFile=package.json)
 [![Coverage Status](https://coveralls.io/repos/github/gillou66/dashingJs2/badge.svg?branch=master)](https://coveralls.io/github/gillou66/dashingJs2?branch=master)
-
 [![Build Status](https://travis-ci.org/gillou66/dashingJs2.svg?branch=master)](https://travis-ci.org/gillou66/dashingJs2)
 
 # DashingJs2
